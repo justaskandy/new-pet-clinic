@@ -6,7 +6,7 @@
 	<groupId>de.derandy.pet-clinic-new</groupId>
 	<artifactId>pet-clinic-new</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>pom</packaging>
+	<packaging>jar</packaging>
 
 	<name>pet-clinic-new</name>
 	<description>pet clinic</description>
