@@ -1,12 +1,12 @@
-package de.derandy.petclinicnew;
+package de.derandy.petclinicmain;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PetClinicNewApplication {
+public class PetClinicMainApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PetClinicNewApplication.class, args);
+		SpringApplication.run(PetClinicMainApplication.class, args);
 	}
 }

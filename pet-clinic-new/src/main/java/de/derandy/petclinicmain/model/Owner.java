@@ -1,4 +1,4 @@
-package de.derandy.petclinicnew.model;
+package de.derandy.petclinicmain.model;
 
 public class Owner extends Person{
 
